@@ -46,7 +46,8 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/kienntheprfs/test-markdown-cnpm/blob/master/Picture1.png?raw=true)
+[![Product Name Screen Shot](https://github.com/kienntheprfs/test-markdown-cnpm/blob/master/Picture1.png?raw=true)](https://github.com/kienntheprfs/test-markdown-cnpm/blob/master/Picture1.png?raw=true)
+
 
 Các tính năng cho sinh viên:
 
