@@ -1,4 +1,4 @@
-[![Logo](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/raw/main/images/logo.png)](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2)
+`[![Logo](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/raw/main/images/logo.png)](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2)
 
 ### A-Smart-Printing-Service
 
@@ -8,7 +8,7 @@ Dự án này nhằm xây dựng một hệ thống in ấn thông minh có th�
 [**Explore the docs »**](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/blob/main/Capstone_Project_Spring2022.pdf)  
   
 [View Demo](https://urban-waste-collection-v2.netlify.app/) · [Report Bug](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/issues) · [Request Feature](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/issues/issues)
-
+`
 Table of Contents
 
 1. [About The Project](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#about-the-project)
