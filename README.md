@@ -30,7 +30,7 @@ Table of Contents
 
 [](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#about-the-project)
 
-[![Product Name Screen Shot](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/raw/main/images/uwc-product.png)](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/images/uwc-product.png)
+[![Product Name Screen Shot](https://github.com/kienntheprfs/test-markdown-cnpm/blob/master/Picture1.png)](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/images/uwc-product.png)
 
 ### Built With
 
