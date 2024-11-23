@@ -48,18 +48,40 @@
 
 <img src="Picture1.png" alt="Logo" width="1500" >
 
-Các tính năng cho sinh viên:
+**🌟Các tính năng cho sinh viên:**
 
-- s
+- Sinh viên có thể xem thông tin tài khoản in, theo dõi số dư trang in, lịch sử in và các tùy chọn thanh toán trong một giao diện dễ sử dụng.
+- Sinh viên có thể tải tệp lên hệ thống từ máy tính hoặc điện thoại với các định dạng tệp được hỗ trợ như PDF, DOCX, PPT và các định dạng khác.
+- Sinh viên có thể chọn máy in phù hợp từ danh sách các máy in khả dụng, được phân loại theo vị trí và trạng thái hoạt động.
+- Sinh viên có thể cấu hình các tùy chọn in như khổ giấy (A4/A3), số lượng bản in và in một mặt hoặc hai mặt theo nhu cầu cá nhân.
+- Sinh viên có thể mua thêm trang in thông qua hệ thống thanh toán trực tuyến BKPay khi hết hạn mức in.
+- Hệ thống cung cấp thông báo trạng thái in ngay lập tức, giúp sinh viên biết khi nào tài liệu đã được in xong hoặc nếu có lỗi xảy ra.
+- Sinh viên có thể xem lại lịch sử in của mình, bao gồm các chi tiết như số lượng trang đã in và máy in đã sử dụng.
+- Sinh viên có thể quản lý các tài liệu đã tải lên, chỉnh sửa hoặc xóa tài liệu trước khi in.
+- Hệ thống tự động gửi thông báo khi sinh viên sắp hết trang in, giúp sinh viên dễ dàng quản lý tài khoản của mình.
+- Sinh viên có thể yêu cầu hỗ trợ kỹ thuật qua hệ thống nếu gặp sự cố trong quá trình in.
 
-Các tính năng cho người quản lý (SPSO):
 
-- s
+
+**🌟Các tính năng cho người quản lý (SPSO):**
+
+- SPSO có thể quản lý toàn bộ hệ thống máy in, thêm, bật/tắt hoặc vô hiệu hóa các máy in khi cần thiết.
+- SPSO có thể cấu hình hệ thống, bao gồm việc thiết lập các định dạng tệp được phép, số trang mặc định cho mỗi sinh viên và thời gian làm mới hạn mức in mỗi học kỳ.
+- SPSO có thể theo dõi và kiểm tra nhật ký in ấn của sinh viên, bao gồm các thông tin về sinh viên, máy in, thời gian, và số lượng trang đã in.
+- SPSO có thể truy cập các báo cáo sử dụng hàng tháng hoặc hàng năm về hoạt động in ấn để đánh giá hiệu quả và tối ưu hóa tài nguyên.
+- SPSO có thể điều chỉnh hạn mức in hoặc cấp thêm trang in miễn phí cho sinh viên trong các trường hợp đặc biệt.
+- SPSO nhận thông báo ngay lập tức khi máy in gặp sự cố như hết mực, kẹt giấy hoặc không hoạt động, để xử lý kịp thời.
+- SPSO có thể gửi thông báo hoặc cảnh báo cho sinh viên qua hệ thống, giúp thông báo các thay đổi hoặc sự cố trong quá trình in.
+- SPSO quản lý việc đăng nhập và bảo mật hệ thống qua HCMUT_SSO, đảm bảo chỉ những người có quyền truy cập mới có thể sử dụng hệ thống.
+- SPSO có thể tự động tạo báo cáo về hoạt động in ấn, giúp việc kiểm toán và tối ưu hóa hệ thống dễ dàng hơn.
+- SPSO có thể tối ưu hóa việc sử dụng tài nguyên in trong trường học, phân bổ máy in hợp lý và giảm thiểu tình trạng quá tải hoặc máy in không sử dụng.
 
 
 ### Built With
 
 - [![React][React.js]][React-url]
+- [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 - [![Tailwind_CSS][Tailwind-CSS]][Tailwind-CSS-url]
 - [![shadcn/ui][shadcn-ui]][shadcn-ui-url] 
 - [![draw.io][drawio]][drawio-url]
@@ -70,21 +92,12 @@ Các tính năng cho người quản lý (SPSO):
 
 Sau đây là hướng dẫn cách thiết lập dự án trên thiết bị của bạn. Để có thể chạy dự án trên máy cục bộ của bạn hãy làm theo các bước đơn giản sau đây
 
-### Prerequisites
+### 💥Prerequisites
 
 Cần cài đặt NodeJS và NPM sẵn trên hệ thống
 
-Please install package.
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-- or yarn
 
-  ```sh
-  npm install --global yarn
-  ```
 
 ### 📦 Installation
 
@@ -112,33 +125,23 @@ Please install package.
 
 ## 🚀 Usage
 
-> :warning: **Don't provide signup feature**
+> :warning: **Đang mở rộng**
 
-To access the UWC 2.0 system, there are some account you can try:
-| Username | Password | Role|
-| -------- | -------- | ---- |
-| caohoangkiet1720@gmail.com | 123456 | backofficer |
-| caohoangkiet@gmail.com | 123456 | janitor, collector |
-| hikari.helloworld@gmail.com | 123456 | backofficer |
-| nguyenquocminhthu@gmail.com | 123456 | backofficer |
-| thuctanphu12@gmail.com | 123456 | backofficer |
-| loclepnvx@gmail.com | thangcho | backofficer |
-| caotuankietc3a@gmail.com | 123456 | janitor, collector |
 ## Team members
 
 | No. | Name             | Student ID | Email                           | Contact                                                                                                                                                                                                                     |
 | :-: | ---------------- | :--------: | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1  | Võ Minh Toàn     |  1915570   | toan.vo4121@gmail.com           | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb1] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git1] |
-|  2  | Đặng Hùng Cường  |  1912817   | cuong.danghcmut@hcmut.edu.vn    | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb2] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git2] |
-|  3  | Nguyễn Đình Hiếu |  1913341   | hieu.nguyen190125@hcmut.edu.vn  | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb3] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git3] |
-|  4  | Nguyễn Hải Linh  |  1913944   | linh.nguyen1505@hcmut.edu.vn    | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb4] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git4] |
-|  5  | Đỗ Đình Cường    |  1910892   | cuong.dobachkhoa19@hcmut.edu.vn | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb5] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git5] |
+|  1  | Trần Lương Yến Nhi    |  2252586   | toan.vo4121@gmail.com           | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb1] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git1] |
+|  2  |  Trần Hữu Phước |  2153717   | cuong.danghcmut@hcmut.edu.vn    | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb2] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git2] |
+|  3  | Trần Quang Thiên |  2252768   | hieu.nguyen190125@hcmut.edu.vn  | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb3] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git3] |
+|  4  | Trần Ngọc Khánh Huy  |  2252265   | linh.nguyen1505@hcmut.edu.vn    | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb4] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git4] |
+|  5  | Trần Trung Kiên    |  2252397   | kien.trantrung@hcmut.edu.vn | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb5] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git5] |
 
 ### ⚙ Our demo site
 
-- Here you can easily visit our SIMCAREER Web App with a live preview.
+- Tại đây, bạn có thể dễ dàng truy cập Ứng dụng web Student Smart Printing Service của chúng tôi với bản xem trước trực tiếp (live preview)
 
-🎯 <https://urban-waste-collection-v2.netlify.app/>
+> :warning: 🎯 **Đang mở rộng**
 
 <h1 align="center">🌟 Good Luck and Cheers! 🌟</h1>
 
@@ -156,13 +159,14 @@ To access the UWC 2.0 system, there are some account you can try:
 [shadcn-ui]: https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff
 [shadcn-ui-url]: https://ui.shadcn.com/
 
-[fb1]: https://www.facebook.com/toanvo4121/
-[fb2]: https://www.facebook.com/Cuongflorid/
-[fb3]: https://www.facebook.com/kazami190125/
-[fb4]: https://www.facebook.com/hailinh.nguyen.359126/
-[fb5]: https://www.facebook.com/phi.cu.18
-[git1]: https://github.com/toanvo4121
-[git2]: https://github.com/CuongFlodric
-[git3]: https://github.com/HandsOfGoddest
-[git4]: https://github.com/Halee1505
-[git5]: https://github.com/Meovalu
+
+[fb1]: https://www.facebook.com/suahotga1408/
+[fb2]: https://www.facebook.com/tranhuu.phuoc.9231/
+[fb3]: https://www.facebook.com/Branzukai/
+[fb4]: https://www.facebook.com/lev1anth/
+[fb5]: https://www.facebook.com/profile.php?id=100022140130351&mibextid=ZbWKwL
+[git1]: https://github.com/Benhidangiu1408
+[git2]: https://github.com/huuphuoc1218
+[git3]: https://github.com/thientq52
+[git4]: https://github.com/Rosenberg2002
+[git5]: https://github.com/kienntheprfs
