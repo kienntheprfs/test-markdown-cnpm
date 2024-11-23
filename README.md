@@ -45,17 +45,6 @@ Table of Contents
 
 [](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#getting-started)
 Sau đây là hướng dẫn cách thiết lập dự án trên thiết bị của bạn. Để có thể chạy dự án trên máy cục bộ của bạn hãy làm theo các bước đơn giản sau đây
-### Prerequisites
-
-[](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#prerequisites)
-
-Please install package.
-
-- npm
-    
-    ```shell
-    npm install 
-    ```
 ### 📦 Installation
 
 [](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#-installation)
@@ -78,11 +67,11 @@ Please install package.
     ```
     
 
-## 🚀 Usage
+### 🚀 Usage
 
 [](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#-usage)
 
-### ⚙ Our demo site
+## ⚙ Our demo site
 
 [](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#-our-demo-site)
 
