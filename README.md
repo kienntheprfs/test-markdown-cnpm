@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2">
-    <img src="copy1.png" alt="Logo" width="80" height="80">
+    <img src="copy1.png" alt="Logo" width="90" height="90">
   </a>
 
 <h3 align="center">Student-Smart-Printing-Service</h3>
