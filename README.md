@@ -1,14 +1,21 @@
-`[![Logo](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/raw/main/images/logo.png)](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2)
+
+
+
+[![Logo](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/raw/main/images/logo.png)](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2)
 
 ### A-Smart-Printing-Service
 
 [](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#urban-waste-collection-v2)
 
 Dự án này nhằm xây dựng một hệ thống in ấn thông minh có thể truy cập từ xa dành cho sinh viên trường Đại học Bách khoa TP.HCM
+
 [**Explore the docs »**](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/blob/main/Capstone_Project_Spring2022.pdf)  
   
 [View Demo](https://urban-waste-collection-v2.netlify.app/) · [Report Bug](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/issues) · [Request Feature](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2/issues/issues)
-`
+
+
+
+
 Table of Contents
 
 1. [About The Project](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#about-the-project)
@@ -52,22 +59,19 @@ Please install package.
 ### 📦 Installation
 
 [](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#-installation)
-
-1. See urban-waste-collection-v2 service at
-    - [https://uwc-v2-service.onrender.com/swagger-ui](https://uwc-v2-service.onrender.com/swagger-ui)
-2. Sao chép dự án
+1. Sao chép dự án
     
     ```shell
     git clone https://github.com/Benhidangiu1408/BTL-CNPM.git
     ```
     
-3. Cài đặt các NPM packages
+2. Cài đặt các NPM packages
     
     ```js
     npm install
     ```
     
-4. Khởi động ứng dụng
+3. Khởi động ứng dụng
     
     ```js
     npm run dev
@@ -78,27 +82,9 @@ Please install package.
 
 [](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#-usage)
 
-> ⚠️ **Don't provide signup feature**
-
-To access the UWC 2.0 system, there are some account you can try:
-
-| Username                                                          | Password | Role               |
-| ----------------------------------------------------------------- | -------- | ------------------ |
-| [caohoangkiet1720@gmail.com](mailto:caohoangkiet1720@gmail.com)   | 123456   | backofficer        |
-| [caohoangkiet@gmail.com](mailto:caohoangkiet@gmail.com)           | 123456   | janitor, collector |
-| [hikari.helloworld@gmail.com](mailto:hikari.helloworld@gmail.com) | 123456   | backofficer        |
-| [nguyenquocminhthu@gmail.com](mailto:nguyenquocminhthu@gmail.com) | 123456   | backofficer        |
-| [thuctanphu12@gmail.com](mailto:thuctanphu12@gmail.com)           | 123456   | backofficer        |
-| [loclepnvx@gmail.com](mailto:loclepnvx@gmail.com)                 | thangcho | backofficer        |
-| [caotuankietc3a@gmail.com](mailto:caotuankietc3a@gmail.com)       | 123456   | janitor, collector |
-
 ### ⚙ Our demo site
 
 [](https://github.com/Software-Engineer-Team/Urban-Waste-Collection-v2?tab=readme-ov-file#-our-demo-site)
-
-- Here you can easily visit our SIMCAREER Web App with a live preview.
-
-🎯 [https://urban-waste-collection-v2.netlify.app/](https://urban-waste-collection-v2.netlify.app/)
 
 # 🌟 Good Luck and Cheers! 🌟
 
