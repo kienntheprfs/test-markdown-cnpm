@@ -9,7 +9,7 @@
   <p align="center">
     <p style="text-align:center;"> <span style="background: linear-gradient(to right, #8B0000, #4B0082, #00008B); -webkit-background-clip: text; color: transparent;">Student Smart Printing Service</span> là dự án nhằm xây dựng một hệ thống in ấn thông minh có thể truy cập từ xa dành cho sinh viên trường Đại học Bách khoa TP.HCM</p>
     <br />
-    <a href="Capstone_Project_Spring2022.pdf" target="_blank"><strong>Explore the docs »</strong></a>
+    <a href="Capstone_Project_Autumn_2023.pdf" target="_blank"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://urban-waste-collection-v2.netlify.app/" target="_blank">View Demo</a>
