@@ -46,8 +46,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot](https://github.com/kienntheprfs/test-markdown-cnpm/blob/master/Picture1.png?raw=true)](https://github.com/kienntheprfs/test-markdown-cnpm/blob/master/Picture1.png?raw=true)
-
+<img src="Picture1.png" alt="Logo" width="1500" >
 
 Các tính năng cho sinh viên:
 
@@ -61,9 +60,9 @@ Các tính năng cho người quản lý (SPSO):
 ### Built With
 
 - [![React][React.js]][React-url]
-- [![styled-components][styled-components]][styled-components-url]
+- [![Tailwind_CSS][Tailwind-CSS]][Tailwind-CSS-url]
+- [![shadcn/ui][shadcn-ui]][shadcn-ui-url] 
 - [![draw.io][drawio]][drawio-url]
-- [![Spring Boot][Spring-Boot]][Spring-Boot-url]
 
 <!-- GETTING STARTED -->
 
@@ -125,6 +124,15 @@ To access the UWC 2.0 system, there are some account you can try:
 | thuctanphu12@gmail.com | 123456 | backofficer |
 | loclepnvx@gmail.com | thangcho | backofficer |
 | caotuankietc3a@gmail.com | 123456 | janitor, collector |
+## Team members
+
+| No. | Name             | Student ID | Email                           | Contact                                                                                                                                                                                                                     |
+| :-: | ---------------- | :--------: | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Võ Minh Toàn     |  1915570   | toan.vo4121@gmail.com           | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb1] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git1] |
+|  2  | Đặng Hùng Cường  |  1912817   | cuong.danghcmut@hcmut.edu.vn    | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb2] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git2] |
+|  3  | Nguyễn Đình Hiếu |  1913341   | hieu.nguyen190125@hcmut.edu.vn  | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb3] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git3] |
+|  4  | Nguyễn Hải Linh  |  1913944   | linh.nguyen1505@hcmut.edu.vn    | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb4] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git4] |
+|  5  | Đỗ Đình Cường    |  1910892   | cuong.dobachkhoa19@hcmut.edu.vn | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb5] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git5] |
 
 ### ⚙ Our demo site
 
@@ -135,7 +143,7 @@ To access the UWC 2.0 system, there are some account you can try:
 <h1 align="center">🌟 Good Luck and Cheers! 🌟</h1>
 
 [product-screenshot]: images/uwc-product.png
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
 [React-url]: https://reactjs.org/
 [Spring-Boot]: https://img.shields.io/badge/Spring%20Boot-2.7.4-green.svg?style=for-the-badge&logo=spring
 [styled-components]: https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white
@@ -143,3 +151,18 @@ To access the UWC 2.0 system, there are some account you can try:
 [drawio]: https://img.shields.io/badge/draw.io-%23000000.svg?style=for-the-badge&logo=draw-dot-io&logoColor=white
 [drawio-url]: https://www.draw.io/
 [Spring-Boot-url]: https://spring.io/projects/spring-boot
+[Tailwind-CSS]: https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white
+[Tailwind-CSS-url]: https://tailwindcss.com/
+[shadcn-ui]: https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff
+[shadcn-ui-url]: https://ui.shadcn.com/
+
+[fb1]: https://www.facebook.com/toanvo4121/
+[fb2]: https://www.facebook.com/Cuongflorid/
+[fb3]: https://www.facebook.com/kazami190125/
+[fb4]: https://www.facebook.com/hailinh.nguyen.359126/
+[fb5]: https://www.facebook.com/phi.cu.18
+[git1]: https://github.com/toanvo4121
+[git2]: https://github.com/CuongFlodric
+[git3]: https://github.com/HandsOfGoddest
+[git4]: https://github.com/Halee1505
+[git5]: https://github.com/Meovalu
